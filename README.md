@@ -16,7 +16,7 @@ Originally presented at the CCAI Tackling Climate Change with Machine Learning W
 
 ## Access this tutorial
 
-We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/agricultural-monitoring-ftw/blob/main/1.0-agriculture-monitoring-with-ftw.ipynb">
+We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/kiplimock/agricultural-monitoring-ftw/blob/main/1.0-agriculture-monitoring-with-ftw.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
